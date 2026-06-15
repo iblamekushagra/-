@@ -1,0 +1,6 @@
+{
+  "name": "PlayBox",
+  "description": "Wacky 20-in-1 local offline party game compilation for 1 to 4 players. Features synthesized warm retro soundtracks, customizable character avatars, and turn whistling referee alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
